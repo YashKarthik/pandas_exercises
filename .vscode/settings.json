@@ -1,0 +1,14 @@
+{
+  "workbench.colorCustomizations": {
+    "terminal.background": "#12041f",
+    "terminal.foreground": "#f7e583",
+    "editorLineNumber.foreground": "#8807f1be",
+    "editor.selectionBackground": "#7700ff",
+    "editor.selectionHighlightBackground": "#7700ff",
+    "editorCursor.background": "#5222a0",
+    "editorCursor.foreground": "#fcc03e",
+    "editor.foreground": "#ffb452",
+    "editor.background": "#1a1919",
+    "editorIndentGuide.activeBackground": "#a4f59d"
+  }
+}
